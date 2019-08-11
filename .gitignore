@@ -3,3 +3,10 @@
 *.pdf
 *.csv
 *.dta
+<<<<<<< HEAD
+.DS_Store
+=======
+.DS_Store
+>>>>>>> fc11d644a72374ff35363069bcadef7bf39d82d3
+julia/.DS_Store
+ella/.DS_Store
